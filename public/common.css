@@ -1,0 +1,15 @@
+*{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+}
+html {
+  height: 100%;
+}
+body {
+  /* background: url('./img/bg1.png')  no-repeat; */
+  /* background-size: cover; */
+  background: -webkit-linear-gradient(#fff, rgb(165, 107, 107));
+  
+}
